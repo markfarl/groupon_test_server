@@ -17,4 +17,4 @@ it is used with the main FE application here
 
 ## Docker file
 This creates a docker image using the settings, a public example of this is hosted here https://hub.docker.com/r/markfarl84/groupon_serve
-This image is hosted at a EC2 AWS inatsnace on free tier account
+This image is hosted at a EC2 AWS instance on free tier account
